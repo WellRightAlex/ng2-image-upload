@@ -8,20 +8,7 @@ on:
     types: [created]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 16
-      - uses: bduff9/use-npmrc@v1.1
-        with:
-          dot-npmrc: ${{ secrets.NPMRC }}   
-      - run: npm ci
-
   publish-gpr:
-    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -32,9 +19,6 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-      - uses: bduff9/use-npmrc@v1.1
-        with:
-          dot-npmrc: ${{ secrets.NPMRC }} 
       - run: npm ci
       - run: npm run build
       - run: npm publish ./dist
