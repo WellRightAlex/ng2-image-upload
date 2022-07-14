@@ -19,8 +19,6 @@ jobs:
         with:
           dot-npmrc: ${{ secrets.NPMRC }}   
       - run: npm ci
-#         env:
-#           NODE_AUTH_TOKEN: ${{secrets.PACKAGE_TOKEN}}
 
   publish-gpr:
     needs: build
