@@ -13,7 +13,7 @@ import { ImageUploadComponent } from './image-upload/image-upload.component';
   exports: [ImageUploadComponent]
 })
 export class ImageUploadModule {
-  static forRoot(): ModuleWithProviders {
+  static forRoot(): ModuleWithProviders<ImageUploadModule> {
     return {
       ngModule: ImageUploadModule,
       providers: [ImageUploadService]

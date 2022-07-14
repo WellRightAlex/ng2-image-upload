@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { ImageUploadModule } from 'angular2-image-upload';
-import { NgxMdModule } from 'ngx-md';
+import { NgxMdModule } from '@wellrightalex/ngx-md';
 
 import { AppComponent } from './app.component';
 import { DemoComponent } from './demo/components/demo.component';

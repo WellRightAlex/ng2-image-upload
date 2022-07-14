@@ -9,7 +9,7 @@
       "projectType": "library",
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-ng-packagr:build",
+          "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
             "tsConfig": "projects/ng2-image-upload/tsconfig.lib.json",
             "project": "projects/ng2-image-upload/ng-package.json"
