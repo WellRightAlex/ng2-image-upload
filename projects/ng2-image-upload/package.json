@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/wellrightalex/ng2-image-upload"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/wellrightalex"
+  },
   "keywords": [
     "image",
     "upload",
