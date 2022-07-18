@@ -1,6 +1,6 @@
 {
   "name": "@wellrightalex/angular2-image-upload",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "description": "An angular component that uploads images using native browser upload or drag-n-drop.",
   "repository": {
     "type": "git",
@@ -31,6 +31,6 @@
   "peerDependencies": {
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0",
-    "rxjs": "~7.4.0"
+    "rxjs": "^6.5.5 || ^7.4.0"
   }
 }
