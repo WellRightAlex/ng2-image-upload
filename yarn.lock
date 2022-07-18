@@ -1731,10 +1731,10 @@
     "@webassemblyjs/ast" "1.11.1"
     "@xtuc/long" "4.2.2"
 
-"@wellrightalex/ngx-md@npm:@wellrightalex/ngx-md@^13.0.0":
-  "integrity" "sha512-QQ578LJOdbgK7rgB4VoLBMI9jZMTqcKExvIgSsnbSbswhHLcjXG+Dy0BT9eaSo1Xe0PIbzeSw9Dw95xkaABRKA=="
-  "resolved" "https://npm.pkg.github.com/download/@wellrightalex/ngx-md/13.0.0/3fe6a732aec06bbe505c73c3ca69489abdb30ff0cf79e140e6efc061fc2ea901"
-  "version" "13.0.0"
+"@wellrightalex/ngx-md@npm:@wellrightalex/ngx-md@^13.0.1":
+  "integrity" "sha512-87aEZ34SubbvFHjMEnrxAlp/khzgxcqD6qko0BddBokF6OZMFq5dmOE5cXAUpo9fweZZGCSw2dV2iDBJ32zUIw=="
+  "resolved" "https://npm.pkg.github.com/download/@wellrightalex/ngx-md/13.0.1/2bc7b966c7a01fcce80782dccec35b8aca57dd8e4ce293f77bfe4c1c19ae8e66"
+  "version" "13.0.1"
   dependencies:
     "marked" "^4.0.17"
     "prismjs" "^1.28.0"
@@ -5965,7 +5965,7 @@
   dependencies:
     "queue-microtask" "^1.2.2"
 
-"rxjs@^6.5.3 || ^7.4.0", "rxjs@^7.0.0", "rxjs@^7.2.0", "rxjs@~7.4.0":
+"rxjs@^6.5.3 || ^7.4.0", "rxjs@^6.5.5 || ^7.4.0", "rxjs@^7.0.0", "rxjs@^7.2.0":
   "integrity" "sha512-7SQDi7xeTMCJpqViXh8gL/lebcwlp3d831F05+9B44A4B0WfsEwUQHR64gsH1kvJ+Ep/J9K2+n1hVl1CsGN23w=="
   "resolved" "https://registry.npmjs.org/rxjs/-/rxjs-7.4.0.tgz"
   "version" "7.4.0"
@@ -6815,7 +6815,7 @@
   "resolved" "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz"
   "version" "0.0.6"
 
-"typescript@>=2.1.0 || >=2.1.0-dev || >=2.2.0-dev || >=2.3.0-dev || >=2.4.0-dev || >=2.5.0-dev || >=2.6.0-dev || >=2.7.0-dev || >=2.8.0-dev || >=2.9.0-dev || >= 3.0.0-dev || >= 3.1.0-dev", "typescript@>=2.3.0-dev || >=2.4.0-dev || >=2.5.0-dev || >=2.6.0-dev || >=2.7.0-dev || >=2.8.0-dev || >=2.9.0-dev || >=3.0.0-dev || >= 3.1.0-dev || >= 3.2.0-dev || >= 4.0.0-dev", "typescript@>=2.7", "typescript@>=4.4.0 <4.7", "typescript@>=4.4.2 <4.7", "typescript@>=4.4.3 <4.7", "typescript@~4.6.0":
+"typescript@>= 4.4.4 < 4.7.0", "typescript@>=2.1.0 || >=2.1.0-dev || >=2.2.0-dev || >=2.3.0-dev || >=2.4.0-dev || >=2.5.0-dev || >=2.6.0-dev || >=2.7.0-dev || >=2.8.0-dev || >=2.9.0-dev || >= 3.0.0-dev || >= 3.1.0-dev", "typescript@>=2.3.0-dev || >=2.4.0-dev || >=2.5.0-dev || >=2.6.0-dev || >=2.7.0-dev || >=2.8.0-dev || >=2.9.0-dev || >=3.0.0-dev || >= 3.1.0-dev || >= 3.2.0-dev || >= 4.0.0-dev", "typescript@>=2.7", "typescript@>=4.4.0 <4.7", "typescript@>=4.4.2 <4.7", "typescript@>=4.4.3 <4.7":
   "integrity" "sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg=="
   "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.6.4.tgz"
   "version" "4.6.4"
