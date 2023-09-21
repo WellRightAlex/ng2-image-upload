@@ -1,6 +1,6 @@
 {
   "name": "@wellrightalex/angular2-image-upload",
-  "version": "15.0.1",
+  "version": "15.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ng2-image-upload-demo",
@@ -20,7 +20,7 @@
     "@angular/platform-browser": "^15.2.9",
     "@angular/platform-browser-dynamic": "^15.2.9",
     "@angular/router": "^15.2.9",
-    "@wellrightalex/ngx-md": "npm:@wellrightalex/ngx-md@^15.0.1",
+    "@wellrightalex/ngx-md": "npm:@wellrightalex/ngx-md@^15.0.2",
     "bootstrap": "^5.0.0",
     "prismjs": "^1.28.0",
     "rxjs": "^6.5.5 || ^7.4.0"
