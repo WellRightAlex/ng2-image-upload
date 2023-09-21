@@ -1,6 +1,6 @@
 {
   "name": "@wellrightalex/angular2-image-upload",
-  "version": "13.0.1",
+  "version": "15.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ng2-image-upload-demo",
@@ -15,31 +15,31 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^14.3.0",
-    "@angular/core": "^14.3.0",
-    "@angular/platform-browser": "^14.3.0",
-    "@angular/platform-browser-dynamic": "^14.3.0",
-    "@angular/router": "^14.3.0",
-    "@wellrightalex/ngx-md": "npm:@wellrightalex/ngx-md@^13.0.1",
+    "@angular/common": "^15.2.9",
+    "@angular/core": "^15.2.9",
+    "@angular/platform-browser": "^15.2.9",
+    "@angular/platform-browser-dynamic": "^15.2.9",
+    "@angular/router": "^15.2.9",
+    "@wellrightalex/ngx-md": "npm:@wellrightalex/ngx-md@^15.0.1",
     "bootstrap": "^5.0.0",
     "prismjs": "^1.28.0",
     "rxjs": "^6.5.5 || ^7.4.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^13.0.0",
-    "@angular/cli": "^14.2.12",
-    "@angular/compiler": "^14.3.0",
-    "@angular/compiler-cli": "^14.3.0",
-    "@angular/language-service": "^14.3.0",
+    "@angular-devkit/build-angular": "^15.2.9",
+    "@angular/cli": "^15.2.9",
+    "@angular/compiler": "^15.2.9",
+    "@angular/compiler-cli": "^15.2.9",
+    "@angular/language-service": "^15.2.9",
     "@types/node": "^16.0.0",
     "@types/prismjs": "^1.26.0",
     "codelyzer": "^6.0.2",
-    "ng-packagr": "^13.0.0",
+    "ng-packagr": "^15.2.2",
     "standard-version": "^9.5.0",
     "ts-node": "~10.8.2",
     "tslib": "^2.4.0",
     "tslint": "~6.1.3",
-    "typescript": ">= 4.4.4 < 4.7.0",
+    "typescript": "4.9.5",
     "zone.js": "~0.11.4"
   }
 }
