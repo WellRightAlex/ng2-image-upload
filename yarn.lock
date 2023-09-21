@@ -140,7 +140,7 @@
     symbol-observable "4.0.0"
     yargs "17.6.2"
 
-"@angular/common@^13.0.0", "@angular/common@^15.2.9", "@angular/common@15.2.9":
+"@angular/common@^15.0.0", "@angular/common@^15.2.9", "@angular/common@15.2.9":
   version "15.2.9"
   resolved "https://registry.npmjs.org/@angular/common/-/common-15.2.9.tgz"
   integrity sha512-LM9/UHG2dRrOzlu2KovrFwWIziFMjRxHzSP3Igw6Symw/wIl0kXGq8Fn6RpFP78zmLqnv+IQOoRiby9MCXsI4g==
@@ -175,7 +175,7 @@
   resolved "https://registry.npmjs.org/@angular/compiler/-/compiler-9.0.0.tgz"
   integrity sha512-ctjwuntPfZZT2mNj2NDIVu51t9cvbhl/16epc5xEwyzyDt76pX9UgwvY+MbXrf/C/FWwdtmNtfP698BKI+9leQ==
 
-"@angular/core@^13.0.0", "@angular/core@^15.2.9", "@angular/core@15.2.9":
+"@angular/core@^15.0.0", "@angular/core@^15.2.9", "@angular/core@15.2.9":
   version "15.2.9"
   resolved "https://registry.npmjs.org/@angular/core/-/core-15.2.9.tgz"
   integrity sha512-w46Z1yUXCQfKV7XfnamOoLA2VD0MVUUYVrUjO73mHSskDXSXxfZAEHO9kfUS71Cj35PvhP3mbkqWscpea2WeYg==
@@ -1802,10 +1802,10 @@
     "@webassemblyjs/ast" "1.11.1"
     "@xtuc/long" "4.2.2"
 
-"@wellrightalex/ngx-md@npm:@wellrightalex/ngx-md@^15.0.1":
-  version "15.0.1"
-  resolved "https://npm.pkg.github.com/download/@WellRightAlex/ngx-md/15.0.1/0fd962ec77d8262f17a7d91c869eda2a48aeda08"
-  integrity sha512-r5s7CYrQtxZ3uJMOmb4wHnGa7RgdHPUeDxKSmbNkSwY2TDtBsRRUX0KZRtWtsa+pWx6qcPE05RHdGL4wUQWKJw==
+"@wellrightalex/ngx-md@npm:@wellrightalex/ngx-md@^15.0.2":
+  version "15.0.2"
+  resolved "https://npm.pkg.github.com/download/@WellRightAlex/ngx-md/15.0.2/9ad990cf21a835f8243df2fb29200a1474991c7c"
+  integrity sha512-54KbTKF+vfZTGYkrhHEDuS/77yWVyZ2XQP6dpXwRkDJ0Zv508MRcqY99F2xwocCXrynfy4KecXeL9cZjxGMs6Q==
   dependencies:
     marked "^4.0.17"
     prismjs "^1.28.0"
